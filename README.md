@@ -1,4 +1,4 @@
-# Tugas 1 RWD
+# Tugas 1 SQL
 ERD dbpos
 
 ## Rincian tugas
